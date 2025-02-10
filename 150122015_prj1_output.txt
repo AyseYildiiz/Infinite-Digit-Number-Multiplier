@@ -1,0 +1,6 @@
+Multiplicand: 452.9873542
+
+Multiplier: 2345.349
+
+Result: 1062413.4381856158
+Execution time: 0.000000 seconds
